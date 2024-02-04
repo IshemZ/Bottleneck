@@ -19,7 +19,7 @@ Minimum 5 incohérence à relever sur le projet
 
 - Possible erreurs de saisie (prix produit) -> valeurs abérante + faire représentation graphique
 
-# Mes théories : 
+## Mes théories : 
 
 - Le fichier de Sylvie contient toutes les références produit de l'entreprise ainsi que les références produits de la boutique en ligne. Certaines références produit de l'entreprise n'ont pas de correspondance avec les références en ligne.
 
