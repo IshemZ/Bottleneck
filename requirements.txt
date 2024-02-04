@@ -14,7 +14,7 @@ anaconda-project @ file:///Users/cbousseau/work/recipes/ci_py311/anaconda-projec
 anyio @ file:///Users/cbousseau/work/recipes/ci_py311/anyio_1677917528418/work/dist
 appdirs==1.4.4
 applaunchservices @ file:///Users/cbousseau/work/recipes/ci_py311/applaunchservices_1677955996025/work
-appnope==0.1.3
+appnope==0.1.3 
 appscript @ file:///Users/cbousseau/work/recipes/ci_py311/appscript_1677956964648/work
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///Users/cbousseau/work/recipes/ci_py311/argon2-cffi-bindings_1677915727169/work
