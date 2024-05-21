@@ -69,4 +69,3 @@ Je me demande si ce n'est pas simplement parce que toute les référence de l'en
 ### Fichier_web :
 - 'product_id' = identifiant de tout les produits de l'entreprise         
 - 'sku' = identifiant des produits mis en ligne
-
