@@ -344,6 +344,7 @@ websocket-client @ file:///Users/cbousseau/work/recipes/ci_py311/websocket-clien
 Werkzeug @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_fc9kcczuwd/croot/werkzeug_1679489745296/work
 whatthepatch @ file:///Users/cbousseau/work/recipes/ci_py311/whatthepatch_1677934976505/work
 widgetsnbextension @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_cd_nvw5x1_/croot/widgetsnbextension_1679313872684/work
+wordcloud==1.9.3
 wrapt @ file:///Users/cbousseau/work/recipes/ci_py311/wrapt_1677925966862/work
 wurlitzer @ file:///Users/cbousseau/work/recipes/ci_py311/wurlitzer_1677955854875/work
 xarray @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a14bvvrzzp/croot/xarray_1689041477812/work
